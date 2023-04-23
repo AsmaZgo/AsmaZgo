@@ -3,7 +3,7 @@ You can call me AsmaZgo! I'm a Senior Machine Learning engineer with 6 years of 
 large datasets. I'm also passionate about using data science and analytics to solve real-world problems.
 
 ### Highlights
-•	System design for an ML training architecture using online and batch learning to solve an anomaly detection problem: https://t.co/7PqZh9yQ83
+•	System design for an ML training architecture using online and batch learning to solve an anomaly detection problem: https://github.com/AsmaZgo/DataScienceMulti/blob/master/system_design_ML.MD
 
 •	Comparing Databases: https://github.com/AsmaZgo/DataScienceMulti/blob/master/Database_comparing.MD
 
