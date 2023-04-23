@@ -9,7 +9,7 @@ large datasets. I'm also passionate about using data science and analytics to so
 
 •	Comparing Databases: https://github.com/AsmaZgo/DataScienceMulti/blob/master/Database_comparing.MD
 
-•	Jupyter notebook for semi supervised learning using Label propagation: https://github.com/AsmaZgo/DataScienceMulti/blob/master/credit-risk-data-semi-supervised.ipynb
+•	Jupyter notebook for semi-supervised learning using Label propagation: https://github.com/AsmaZgo/DataScienceMulti/blob/master/credit-risk-data-semi-supervised.ipynb
 
 •	Jupyter notebook for computer vision using Ann: https://github.com/AsmaZgo/ComputerVisionDigitsClassification
 
